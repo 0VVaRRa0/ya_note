@@ -17,9 +17,9 @@ __pycache__/
 
 static/
 media/
+local_files
 
 db.sqlite3
-ToDo.md
 
 htmlcov/
 .coverage
